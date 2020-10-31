@@ -13,4 +13,12 @@
     return $RETRIEVED_JSON['updateDate'];
   }
 
+  function GetStudentsAttendingSchool($RETRIEVED_JSON) {
+    return $RETRIEVED_JSON['currentCounts']['onSiteStudentPopulation'];
+  }
+
+  function GetStudentsAtHome($RETRIEVED_JSON) {
+    return $RETRIEVED_JSON['currentCounts']['offSiteStudentPopulation'];
+  }
+
   ?>

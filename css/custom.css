@@ -1,0 +1,20 @@
+.case-number {
+  font-size:20rem;
+  color: #fbb022;
+}
+.case-caption {
+  color: #fbb022;
+}
+.smaller-importants {
+  font-size:10rem;
+  color: #fbb022;
+}
+.smaller-captions {
+  font-size:3rem;
+  color: #fbb022;
+}
+footer {
+  background-color: #303030;
+  margin-top: 7rem;
+  padding-top: 4rem;
+}
