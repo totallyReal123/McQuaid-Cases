@@ -5,9 +5,7 @@
         <meta charset="utf-8">
         <link rel="icon" href="/media/logo.png">
         <!-- Bootstrap Stuff - Ugh-->
-        <!--meta name="viewport" content="width=device-width, initial-scale=1"-->
         <link rel="stylesheet" href="/css/bootstrap.min.css">
-        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
         <!-- Custom CSS Override -->
         <link rel="stylesheet" href="/css/custom.css">
     </head>
