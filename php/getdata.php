@@ -1,7 +1,7 @@
 <?php
   // Date things - Stole this code
   date_default_timezone_set('America/New_York'); // EST
-  $EST = date("Y_m_d");
+  $EST = date("Y_m_d_H");
   // File paths
   $STORE_PATH = "./data";
   $LOG_FNAME = $EST . ".json";
