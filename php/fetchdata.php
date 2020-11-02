@@ -1,5 +1,5 @@
 <?php
-  include 'php/getdata.php';
+  include './php/getdata.php';
 
   $RETRIEVED_DATA = file_get_contents($LOG_FPATH);
   $RETRIEVED_JSON = json_decode($RETRIEVED_DATA, true);

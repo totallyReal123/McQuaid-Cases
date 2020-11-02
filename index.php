@@ -3,11 +3,11 @@
     <head>
         <title> McQuaid Jesuit COVID Cases </title>
         <meta charset="utf-8">
-        <link rel="icon" href="/media/logo.png">
+        <link rel="icon" href="./media/logo.png">
         <!-- Bootstrap Stuff - Ugh-->
-        <link rel="stylesheet" href="/css/bootstrap.min.css">
+        <link rel="stylesheet" href="./css/bootstrap.min.css">
         <!-- Custom CSS Override -->
-        <link rel="stylesheet" href="/css/custom.css">
+        <link rel="stylesheet" href="./css/custom.css">
     </head>
 
     <body>
