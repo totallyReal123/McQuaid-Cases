@@ -15,7 +15,7 @@
 
       <div class="jumbotron text-center">
         <h1> How many cases does McQuaid have? </h1>
-        <p> (Something you won't get emailed about)</p>
+        <!-- <p> (Something you won't get emailed about)</p> -->
       </div>
 
       <div class="container">
