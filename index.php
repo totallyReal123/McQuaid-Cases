@@ -25,7 +25,7 @@
               <h1 class="case-number"> <?php echo GetPositiveTotal($RETRIEVED_JSON); ?> </h1>
               <h1 class="case-caption"> Total Cases </h1>
             </div>
-            <p> Last updated <?php echo GetLastUpdated($RETRIEVED_JSON); ?></p>
+            <p> Source Data Last updated <?php echo GetLastUpdated($RETRIEVED_JSON); ?></p>
           </div>
         </div>
       </div>
